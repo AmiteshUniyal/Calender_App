@@ -10,19 +10,10 @@
             align-items: center;
             padding: 13em;
         }
-        .cal{
-
-            display: flex;
-            
-        }
-        .xyz{
-            display:flex ;
-        }
         .left{
             background-color: whitesmoke;
             padding: 4em;
             border-radius: 4em;
-
         }
         #day{
             background-color: aliceblue;
