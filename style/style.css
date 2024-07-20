@@ -1,0 +1,43 @@
+
+        *{
+            padding: 0%;
+            margin: 0%;
+            background-color: purple;
+        }
+       .main{ 
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 13em;
+        }
+        .cal{
+
+            display: flex;
+            
+        }
+        .xyz{
+            display:flex ;
+        }
+        .left{
+            background-color: whitesmoke;
+            padding: 4em;
+            border-radius: 4em;
+
+        }
+        #day{
+            background-color: aliceblue;
+            font-size: 3em;
+        }
+        #date{
+            background-color:aliceblue;
+            font-size: 2em;
+        }
+        #month{
+            background-color: aliceblue;
+            font-size: 2em;
+
+        }
+        #year{
+            background-color:aliceblue;
+            font-size: 2em;
+        }
